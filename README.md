@@ -1,6 +1,9 @@
 This is a forked project.
 2020-12-3
 
+2021.3.13
+updated for continuous workflow
+
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
 
